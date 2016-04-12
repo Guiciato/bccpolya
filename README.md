@@ -75,7 +75,10 @@ fim
 Polya criou um método para resolver problemas que é dívido em 4 etapas:ENTENDA O PROBLEMA, CONSTRUA UMA ESTRATÉGIA DE RESOLUÇÃO, EXECUTE A ESTRATEGIA E REVISE.
 
 1) ENTENDA O PROBLEMA: É necessário que você leia com atenção para entende-lô.
+
 2) CONSTRUA UMA ESTRATÉGIA DE RESOLUÇÃO: Para fazer isso primeiro é necessário ter feito o primeiro passo corretamente para fazer uma estratédia que pode ser feita com elementos do problema.
+
 3) EXECUTE A ESTRATEGIA:Para executar a estratédia é simples, só precisa usar os elementos conseguidos e representa-lôs com clareza
+
 4) REVISE: Nesse passo é importante por causa dele podemos ver se estamos correto e ver a solução com outros métodos
 
