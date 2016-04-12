@@ -66,7 +66,7 @@ fim
 
 4.FLUXOGRAMA
 
-![Alt text]()https://www.gliffy.com/go/html5/10400717
+![Alt text] https://www.gliffy.com/go/html5/10400717
 
 
 
