@@ -11,7 +11,7 @@ Algoritmo para calcular raízes
 
 
 
-1.DESCRIÇÃO DO PROBLEMA:
+1.DESCRIÇÃO DO PROBLEMA
 
 Determinar a raiz quadrada consiste em calcular o número que, elevado ao quadrado, gera o valor desejado. Por exemplo, a raiz quadrada do número 25 corresponde ao número 5, pois 5² é igual a 25. Em algumas situações, descobrir esse número por tentativa pode ser muito cansativo e bastante complicado. Com isso pensei em fazer esse código para resolver de modo mais fácil e prático
 
