@@ -2,9 +2,13 @@
 Algoritmo para calcular raízes
 
 1.DESCRIÇÃO DO PROBLEMA
+
 2.LINGUAGEM MATEMÁTICA
+
 3.PORTUGUÊS ESTRUTURADO
+
 4.FLUXOGRAMA
+
 5.USO DO TERMO "POLYA" NO NOME DO REPOSITÓRIO.
 
 *********************************************
